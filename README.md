@@ -1,4 +1,5 @@
-![image](https://github.com/kaverichougule/Coffee_Cafe/assets/101037685/d4a1b645-5c9f-4782-8cda-3e97eff260de)Hosted Link: https://kaverichougule.github.io/Coffee_Cafe/
+Hosted link : https://kaverichougule.github.io/Coffee_Cafe/
+<br>
 # Coffee Cafe
 
 ![image](https://github.com/kaverichougule/Coffee_Cafe/assets/101037685/deeb4f34-ac9d-4bf6-b80e-238113cc6d60)
