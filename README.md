@@ -13,7 +13,7 @@ The search input is positioned with specific styling attributes. It has a colore
 ![Uploading image.png…](
 This section displays a selection of coffee options. <br>
 Inside this section, there are multiple 'div' elements, each representing a coffee type. <br>
-Each <div> contains an 'img' element for the coffee image and an 'h4' element for the coffee name. <br>
+Each 'div' contains an 'img' element for the coffee image and an 'h4' element for the coffee name. <br>
 Images are given a fixed height and width with rounded corners and a shadow effect. On hover, the image enlarges slightly with an enhanced shadow effect. <br>
 
 # Section with class info (First):
